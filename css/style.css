@@ -13,6 +13,7 @@ html {
 }
 
 .promo {
+    min-width: 1920px;
   min-height: 800px;
   background: url("/img/BG/Main_bg.png") center center/cover no-repeat;
   padding: 39px 0 62px 0;
@@ -97,6 +98,7 @@ h2.title {
   cursor: pointer;
 }
 .waiting {
+    min-width: 1920px;
   min-height: 604px;
   background-color: #efefef;
   padding: 85px 0 75px 0;
@@ -145,6 +147,7 @@ h2.title {
   width: 100%;
 }
 .optimization {
+    min-width: 1920px;
   min-height: 550px;
   padding: 102px 0 107px 0;
 }
@@ -176,6 +179,7 @@ h2.title {
 }
 
 .finish {
+    min-width: 1920px;
   min-height: 447px;
   padding: 86px 0 79px 0;
   background: url("/img/BG/Second_bg.png") center center/cover no-repeat;
@@ -224,6 +228,7 @@ h2.title {
     border-radius: 100%;
 }
 .gift {
+    min-width: 1920px;
     min-height: 628px;
     padding: 86px 0 87px 0;
     background-color: #efefef;
@@ -242,6 +247,7 @@ text-align: center;
 margin-top: 42px;
 }
 .first_web {
+    min-width: 1920px;
     padding: 89px 0 64px 0;
     min-height: 515px;
 }
@@ -275,6 +281,7 @@ text-align: center;
 margin-top: 25px;
 }
 .footer {
+    min-width: 1920px;
     min-height: 166px;
     padding: 61px 0 69px 0;
     background-color: #1a1a1a;
